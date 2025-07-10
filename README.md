@@ -17,9 +17,9 @@ This tool connects to your Figma account and:
 
 ### 📥 Step 1: Download the Tool
 
-#### Option 1: Download as ZIP (Easiest) 👍
+#### Option 1: Download as [ZIP](https://github.com/ohbus/figma-file-detials-extractor/archive/refs/heads/master.zip) (Easiest) 👍
 1. Click the green "Code" button at the top of this page
-2. Select "Download ZIP"
+2. Select "[Download ZIP](https://github.com/ohbus/figma-file-detials-extractor/archive/refs/heads/master.zip)"
 3. Find the downloaded ZIP file in your Downloads folder
 4. Right-click the ZIP file and select "Extract All..." (Windows) or double-click (Mac)
 5. Choose where you want to extract the files and click "Extract"
