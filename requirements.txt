@@ -1,0 +1,10 @@
+# Figma API Script Dependencies
+
+# HTTP requests library for making API calls
+requests>=2.25.0
+
+# Type hints support (included in Python 3.5+, but useful for older versions)
+typing>=3.7.0; python_version < "3.12"
+
+# Cross-platform colored terminal output
+colorama>=0.4.4
